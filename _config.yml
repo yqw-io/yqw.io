@@ -1,7 +1,16 @@
-title: Yuanqing Wang Research Group
-description: Unifying AI and physics for drug discovery.
+title: YQW.io
+description: AI + Physics = New Drugs
 theme: minima
 url: "https://yqw.io"
 twitter_username: YuanqingWang
 github_username:  yuanqing-wang
 email: wangyq@wangyq.net
+
+plugins:
+  - jekyll-redirect-from
+
+header_pages:
+  - pages/careers.md
+  - pages/publications.md
+  - pages/contact.md
+  
