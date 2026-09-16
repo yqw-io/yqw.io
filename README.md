@@ -7,25 +7,6 @@ Get involved by [joining](/pages/careers), donating, [collaborating (for academi
 
 ![Abstract Image](assets/images/abstract.png)
 
-
-Areas of interest include, but are not limited to:
-
-- ⚙️ <u>AI-accelerated physical modeling.</u> 
-Statistical mechanics and information theory are one tale told in two languages.
-Here, we write the next chapter of that tale bilingually, with components such as:
-    - Machine learning force fields.
-    - Structural generation models.
-    - Machine learning-accelerated sampling methods.
-
-- 💡 <u>Physically inspired AI.</u> Foundation models of, by, and for chemists are needed to model the uniquely small, noisy, and heterogeneously structured data in drug modeling.
-As such, we will build the necessary tools towards a truly versatile and intelligent foundation model:
-    - Specially designed molecular tokenizer.
-    - Foundation models harmonizing unstructured, textual data and molecular graphs.
-
-- 🧠 <u>Decision-making platforms for drug discovery and precision medicine.</u>
-
-Let's talk if you have other big ideas related to AI and/or drug discovery and/or precision medicine.
-
 **👩‍🏫Educational mission.**
 To change the way we make every drug in the future, 
 we cultivate the next generation of scientist-entrepreneurs, 
@@ -36,8 +17,6 @@ We also enthusiastically support your career plan outside academia.
 We break walls.
 We strive to democratize higher education and healthcare innovation through
 open education, open science, open software, and open drug discovery.
-
-
 
 **🥂Members,** sorted reverse-chronologically.
 
