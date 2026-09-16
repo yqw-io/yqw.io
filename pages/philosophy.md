@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👩‍💻 careers
+title: ⛳️ philosophy
 ---
 
 
@@ -11,11 +11,9 @@ We welcome applications from all backgrounds, especially those underrepresented 
 
 #### Open positions.
 
-**Postdocs.**
+**Postdocs.** 
 
-**Graduate students.**
-
-**Administrators/scientific writers.**
+**Graduate students.** Please submit your application [here](https://pharmtox.utoronto.ca/graduate-education) and email me your CV.
 
 ---
 

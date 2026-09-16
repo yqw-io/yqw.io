@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ✉️contact
+title: ✉️ contact
 ---
 
 Yuanqing Wang, M.F.A., M.B.A., Ph.D.<br>
