@@ -26,7 +26,7 @@ open education, open science, open software, and open drug discovery.
 
 
 **🌎 Land acknowledgement.** The land on which the University, and thereby we, operate is---without putting too fine a point on it---_stolen_.
-See the [univeristy acknowledgement](https://indigenous.utoronto.ca/about/land-acknowledgement/).
+See the [university acknowledgement](https://indigenous.utoronto.ca/about/land-acknowledgement/).
 
 
 **☮️ Inclusion statement.** 
@@ -34,7 +34,7 @@ Toronto in the 2020s for international scientists is like Paris in the 1920s for
 Situated at the last frontier of humanity on this once civilized continent, we try our best to make academia a welcoming place for all, regardless of gender, age, sexual orientation, race, ethnicity, national origin, able-bodiedness, family commitments, and socioeconomic background.
 We _especially_ welcome scientists from groups oppressed or marginalized in our neighboring country(ies) to work with us.
 We also welcome researchers who took an untraditional career path.<span id="inclusion"></span>
-For more univeristy-level resources, see [here](https://people.utoronto.ca/inclusion/).
+For more university-level resources, see [here](https://people.utoronto.ca/inclusion/).
 
 <div class="logos" align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/UofT_logo.svg/1920px-UofT_logo.svg.png" alt="University of Toronto" height="50">
