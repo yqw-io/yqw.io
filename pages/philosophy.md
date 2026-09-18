@@ -33,7 +33,7 @@ We are not as interested in releasing models that are marginally better than the
 Tracing back to _The Republic_ and _The Analects_, the most influential ideas in human history have almost always been documented as conversations. 
 While probably not of the same significance, our lab, first and foremost, is a conversation club. 
 We do not have formal, centralized systems for note-taking;
-instead, we share our ideas and findings in real time via [Slack](slack.com), where we encourage rigorous, publication-quality figures, which will be the only material needed for all our meetings, and later directly incorporated into writings.
+instead, we share our ideas and findings in real time via [Slack](https://slack.com), where we encourage rigorous, publication-quality figures, which will be the only material needed for all our meetings, and later directly incorporated into writings.
 We also encourage the summary of informal discussions among colleagues to be documented in a public channel, for future reference.
 In addition, with the help of agents, most, if not all, computational experiments can be carreid out via Slack as well.
 
