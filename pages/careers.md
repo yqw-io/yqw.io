@@ -11,12 +11,8 @@ We welcome applications from all backgrounds, especially those underrepresented 
 
 #### Open positions.
 
-**Postdocs.**
+**Postdocs / Research scientists.** Please email me your CV at [hr@yqw.io](mailto:hr@yqw.io).
 
-**Graduate students.**
+**Graduate students.** Please submit your application [here](https://pharmtox.utoronto.ca/graduate-education) and email me your CV at [hr@yqw.io](mailto:hr@yqw.io).
 
-**Administrators/scientific writers.**
 
----
-
-#### Why us?

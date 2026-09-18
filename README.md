@@ -1,16 +1,16 @@
-Affiliated with the [Department of Pharmacology and Toxicology](https://pharmtox.utoronto.ca) of the [University of Toronto](https://www.utoronto.ca) Temerty [Faculty of Medicine](https://temertymedicine.utoronto.ca), the [Acceleration Consortium](https://acceleration.utoronto.ca), and the [Structural Genomics Consortium](https://www.thesgc.org), we are a group of interdisciplinarily quantitative researchers aiming to change the way drugs are developed and prescribed.
+In a world where life-saving innovations are designed, tested, and prescribed fully autonomously, scientists can be freed from the Sisyphean shackles of lab benches _and computers_, and returned to whiteboards and cocktail tables, where they belong.
+Affiliated with the [Department of Pharmacology and Toxicology](https://pharmtox.utoronto.ca) of the [University of Toronto](https://www.utoronto.ca) Temerty [Faculty of Medicine](https://temertymedicine.utoronto.ca) and the [Acceleration Consortium](https://acceleration.utoronto.ca), we are a group of interdisciplinarily quantitative researchers aiming to make that vision a reality. Read more about our [philosophy](/pages/philosophy).
 
 Get involved by [joining](/pages/careers), donating, [collaborating (for academics)](mailto:y@yqw.io), or setting up a _pro bono_ [consulting session (for companies)](mailto:y@yqw.io) .
 
 
-**🔬 Scientific mission.** We automate the decision-making processes in drug discovery and precision medicine using unified AI and physical modeling.
+**🔬 Scientific mission.** We automate the decision-making processes in drug discovery and precision medicine using unified AI and physical modeling.<span id="mission"></span>
 
 ![Abstract Image](assets/images/abstract.png)
 
 **👩‍🏫 Educational mission.**
-To change the way we make every drug in the future, 
-we cultivate the next generation of scientist-entrepreneurs, 
-or with the risk of sounding cheesy, professor-founders.
+We cultivate the next generation of scientist-entrepreneurs, 
+or with the risk of sounding cheesy, professor-founders, in the bio-AI space.
 We also enthusiastically support your career plan outside academia.
 
 **🏘️ Social mission.**
@@ -36,6 +36,8 @@ We _especially_ welcome scientists from groups oppressed or marginalized in our 
 We also welcome researchers who took an untraditional career path.<span id="inclusion"></span>
 For more univeristy-level resources, see [here](https://people.utoronto.ca/inclusion/).
 
-<img src ="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/UofT_logo.svg/1920px-UofT_logo.svg.png" height=50>
-<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Temerty_Medicine_wordmark_alt.svg/1920px-Temerty_Medicine_wordmark_alt.svg.png" height=50>
-<img src ="https://isi.utoronto.ca/wp-content/uploads/2022/07/AC-16-9-logo.png" height=100>
+<div class="logos" align="center">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/UofT_logo.svg/1920px-UofT_logo.svg.png" alt="University of Toronto" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Temerty_Medicine_wordmark_alt.svg/1920px-Temerty_Medicine_wordmark_alt.svg.png" alt="Temerty Faculty of Medicine" height="50">
+<img src="https://isi.utoronto.ca/wp-content/uploads/2022/07/AC-16-9-logo.png" alt="Acceleration Consortium" height="100">
+</div>

@@ -10,6 +10,7 @@ plugins:
   - jekyll-redirect-from
 
 header_pages:
+  - pages/philosophy.md
   - pages/careers.md
   - pages/publications.md
   - pages/contact.md

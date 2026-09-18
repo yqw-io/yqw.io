@@ -8,6 +8,21 @@ $base-font-size: 20px;
 
 @import "minima";
 
+// Affiliation logos: centered row, optically aligned on a shared
+// centerline, wrapping to a column on narrow viewports.
+.logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: $spacing-unit * 0.5 $spacing-unit;
+  margin-top: $spacing-unit;
+
+  img {
+    max-width: 100%;
+  }
+}
+
 // .post-title {
 //   font-size: 1rem;
 //   font-weight: 700;
