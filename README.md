@@ -3,8 +3,14 @@ Affiliated with the [Department of Pharmacology and Toxicology](https://pharmtox
 
 Get involved by [joining](/pages/careers), donating, [collaborating (for academics)](mailto:y@yqw.io), or setting up a _pro bono_ [consulting session (for companies)](mailto:y@yqw.io) .
 
+**🥂 Members,** sorted reverse-chronologically.
 
-**🔬 Scientific mission.** We automate the decision-making processes in drug discovery and precision medicine using unified AI and physical modeling.<span id="mission"></span>
+|-|-|
+|<img src ="assets/images/headshot.png" height=200>| **Yuanqing Wang** <br> 王源清  <br> M.B.A., [M.F.A.](https://osf.io/nq4sx/), [Ph.D.](https://proquest.com/docview/2789704784) <br> he/him/his <br> <a href="https://github.com/yuanqing-wang/"><img src ="https://edent.github.io/SuperTinyIcons/images/png/github.png" height=30></a><a href="https://scholar.google.com/citations?user=Njp5EY4AAAAJ&hl=en"><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" height=30></a><a href="https://twitter.com/yuanqingwang"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" height=30></a><a href="https://www.linkedin.com/in/yuanqing-wang/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" height=30></a><a href="https://calendar.app.google/H8SzmkyMgwqSzQTU7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" height=30></a> |
+|\<your photo here\>| [join us](/pages/careers)|
+
+
+**🔬 Scientific mission.** We automate the decision-making processes in drug discovery and precision medicine using unified AI and physical modeling, coupled with [self-driven labs (SDLs)](https://acceleration.utoronto.ca/ac-labs-and-facilities).<span id="mission"></span>
 
 ![Abstract Image](assets/images/abstract.png)
 
@@ -17,13 +23,6 @@ We also enthusiastically support your career plan outside academia.
 We break walls.
 We strive to democratize higher education and healthcare innovation through
 open education, open science, open software, and open drug discovery.
-
-**🥂 Members,** sorted reverse-chronologically.
-
-|-|-|
-|<img src ="assets/images/headshot.png" height=200>| **Yuanqing Wang** <br> 王源清  <br> M.B.A., [M.F.A.](https://osf.io/nq4sx/), [Ph.D.](https://proquest.com/docview/2789704784) <br> he/him/his <br> <a href="https://github.com/yuanqing-wang/"><img src ="https://edent.github.io/SuperTinyIcons/images/png/github.png" height=30></a><a href="https://scholar.google.com/citations?user=Njp5EY4AAAAJ&hl=en"><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" height=30></a><a href="https://twitter.com/yuanqingwang"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" height=30></a><a href="https://www.linkedin.com/in/yuanqing-wang/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" height=30></a><a href="https://calendar.app.google/H8SzmkyMgwqSzQTU7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" height=30></a> |
-|\<your photo here\>| [join us](/pages/careers)|
-
 
 **🌎 Land acknowledgement.** The land on which the University, and thereby we, operate is---without putting too fine a point on it---_stolen_.
 See the [university acknowledgement](https://indigenous.utoronto.ca/about/land-acknowledgement/).
