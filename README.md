@@ -1,7 +1,7 @@
 In a world where life-saving innovations are designed, tested, and prescribed fully autonomously, scientists can be freed from the Sisyphean shackles of lab benches _and computers_, and returned to whiteboards and cocktail tables, where they belong.
 Affiliated with the [Department of Pharmacology and Toxicology](https://pharmtox.utoronto.ca) of the [University of Toronto](https://www.utoronto.ca) Temerty [Faculty of Medicine](https://temertymedicine.utoronto.ca) and the [Acceleration Consortium](https://acceleration.utoronto.ca), we are a group of interdisciplinarily quantitative researchers aiming to make that vision a reality. Read more about our [philosophy](/pages/philosophy).
 
-Get involved by [joining](/pages/careers), donating, [collaborating (for academics)](mailto:y@yqw.io), or setting up a _pro bono_ [consulting session (for companies)](mailto:y@yqw.io) .
+Get involved by [joining](/pages/careers), donating, [collaborating (for academics)](mailto:y@yqw.io), or setting up a _pro bono_ [consulting session (for companies)](mailto:y@yqw.io).
 
 **🥂 Members,** sorted reverse-chronologically.
 
@@ -16,7 +16,7 @@ Get involved by [joining](/pages/careers), donating, [collaborating (for academi
 
 **👩‍🏫 Educational mission.**
 We cultivate the next generation of scientist-entrepreneurs, 
-or with the risk of sounding cheesy, professor-founders, in the bio-AI space.
+or at the risk of sounding cheesy, professor-founders, in the bio-AI space.
 We also enthusiastically support your career plan outside academia.
 
 **🏘️ Social mission.**

@@ -27,19 +27,19 @@ but we are still rod manufacturers by heart, since fish may come and go, but peo
 On the landscape of problems waiting to be solved, we find unvisited corners, rather than crowded space---competing in terms of marginal performance or timeline is not helpful for us as a field.
 We always welcome collaborations with labs with complementary strengths or focuses.
 To that end, we go to as many relevant conferences as our time and finances allow.
-Internally, we also encourage group-wide collaboration on every project, where whoever contributed time longer than a cup of coffee should be at least invited for authorship.
+Internally, we also encourage group-wide collaboration on every project, where whoever contributed time longer than a cup of coffee (a single espresso, to be exact) should be at least invited for authorship.
 Nevertheless, co-first authorship within our group is discouraged (unless every party is absolutely certain), as it blurs the line of ownership.
 
 **💬 Conversation over presentation.**
 Tracing back to _The Republic_ and _The Analects_, the most influential ideas in human history have almost always been documented as conversations. 
 While probably not of the same significance, our lab, first and foremost, is a conversation club. 
-We do not have formal, centralized systems for note-taking and we do not waste time preparing nice-looking slides for lab meetings;
-instead, we share our ideas and findings in real time via [Slack](https://slack.com), where we prepare rigorous, publication-quality figures, which will be the only material needed for all our meetings, and later directly incorporated into writings.
+We do not have formal, centralized systems for note-taking and we do not waste time polishing manicured slides for lab meetings.
+Instead, we share our ideas and findings in real time via [Slack](https://slack.com), where we prepare rigorous, publication-quality figures, which will be the only material needed for all our meetings, and later directly incorporated into writings.
 We also encourage the summary of informal discussions among colleagues to be documented in a public channel, for future reference.
-In addition, with the help of agents, most, if not all, computational experiments can be carried out via Slack as well.
+In addition, with the help of agents (like [@claude](https://www.anthropic.com/news/introducing-claude-tag)), most, if not all, computational experiments can be carried out via Slack as well.
 
-In a sense, publications should too be thought of as a conversation with the fellow scholars in our field. 
-To that end, we release preprints early and openly to solicitate feedback, while we also acknowledge the value of a peer-reviewed (and preferably high-impact) paper as career currency.
+In a sense, publications should too be thought of as a conversation with fellow scholars in our field. 
+To that end, we release preprints early and openly to solicit feedback, while we also acknowledge the value of a peer-reviewed (and preferably high-impact) paper as career currency.
 
 
 
