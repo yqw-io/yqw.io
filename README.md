@@ -10,7 +10,7 @@ Get involved by [joining](/pages/careers), donating, [collaborating (for academi
 |\<your photo here\>| [join us](/pages/careers)|
 
 
-**🔬 Scientific mission.** We automate the decision-making processes in drug discovery and precision medicine using unified AI and physical modeling, coupled with [self-driven labs (SDLs)](https://acceleration.utoronto.ca/ac-labs-and-facilities).<span id="mission"></span>
+**🔬 Scientific mission.** We automate the decision-making processes in drug discovery and precision medicine using unified AI and physical modeling, with the decisions executed at [self-driven labs (SDLs)](https://acceleration.utoronto.ca/ac-labs-and-facilities).<span id="mission"></span>
 
 ![Abstract Image](assets/images/abstract.png)
 
